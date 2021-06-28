@@ -29,6 +29,12 @@
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/jonbrand/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jonatas Brandão streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jonbrand&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 <h2 align="center"> :rocket: My Github Stats :rocket:</h2>
 
   <br/>
@@ -41,24 +47,14 @@
 <br/>
 <br/>
 
-<a href="https://github.com/jonbrand/github-readme-activity-graph"><img alt="Jonatas Brandão Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/jonbrand/github-readme-activity-graph"><img alt="Jonatas Brandão Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jonbrand&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jonatas-brand%C3%A3o/)
+<h2 align="center"> 🤙 Connect with me 🤙</h2>
+<p align="center">
 
+<a href = "https://www.linkedin.com/in/jonatas-brand%C3%A3o/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/jon_brand/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-<!--
-**jonbrand/jonbrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
