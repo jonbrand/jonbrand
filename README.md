@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jonatas-brand%C3%A3o-de-ara%C3%BAjo-1340a397/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jonatas-brand%C3%A3o/)
 <p align="center">
   <br><br>
   <samp>
