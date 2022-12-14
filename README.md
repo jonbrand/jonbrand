@@ -27,6 +27,8 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
+    <a href="https://https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
+    <a href="https://https://www.apollographql.com/docs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/apollo.png"/> </a>
 </p>
 
 <p align="center">
