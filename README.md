@@ -52,5 +52,6 @@
 
 <a href = "https://www.linkedin.com/in/jonatas-brand%C3%A3o/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/jon_brand/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.brandaodev.com/"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
 
 </p>
